@@ -1,2 +1,2 @@
 # programacao
-Exercícios de Fundamentos de Programação
+Exercícios e trabalhos de Fundamentos de Programação
